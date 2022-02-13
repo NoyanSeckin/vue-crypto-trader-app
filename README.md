@@ -22,7 +22,7 @@ This web app is a simulation of crypto currency trading. Users, who consider tra
 -Moment
 ```
 
-### Screenshots
+### Screen Shots
 
 ![main-page](/screenshots/mainpage.png)
 ![main-page-navdrawer](/screenshots/mainpage-navdrawer.png)
