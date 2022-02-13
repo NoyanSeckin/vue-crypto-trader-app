@@ -26,7 +26,12 @@ This web app is a simulation of crypto currency trading. Users, who consider tra
 
 ### Screenshots
 
-![.png](@/screenshots/about-page.png)
-![without .png](@/screenshots/about-page)
-![without @ and png](/screenshots/about-page)
-![without @](/screenshots/about-page.png)
+![main-page](/screenshots/mainpage.png)
+![main-page-navdrawer](/screenshots/mainpage-navdrawer.png)
+![trade-screen](/screenshots/trade-screen.png)
+![wallet-page](/screenshots/wallet-page.png)
+![chat-page](/screenshots/chat.png)
+![about-page](/screenshots/about-page.png)
+![about-rate-dialog](/screenshots/about-rate-dialog.png)
+![contact-page](/screenshots/contact-page.png)
+![signup-page](/screenshots/signup-page.png)
