@@ -6,9 +6,7 @@
 
 ### Description
 
-```
- This web app is a simulation of crypto currency trading. Users, who consider trading crypto assets in real life might find this app useful because this app allows people to gain experience in crypto trading and prepare them for real life trading. Each user is given $1000 at the beginning, and they are expected to have fun with it. It is completely fake money and fake crypto assets.
-```
+This web app is a simulation of crypto currency trading. Users, who consider trading crypto assets in real life might find this app useful because this app allows people to gain experience in crypto trading and prepare them for real markets. Each user is given $1000 at the beginning, and they are expected to have fun with it. It is completely fake money and fake crypto assets.
 
 ### Technologies, libraries and packages used to develop this app
 
